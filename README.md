@@ -27,7 +27,9 @@
 1. Загрузка и предобработка данных
 
 
-- Источник данных: CSV-файл с историей клиентов
+- Источник данных: CSV-файл с историей клиентов<br>
+  ![image](https://github.com/user-attachments/assets/4c7700b5-8e8f-4941-8b39-1ac38fc44be3)
+
 - Предобработка включает:
   - Кодирование категориальных переменных (Geography, Gender)
   - Удаление некритичных столбцов (RowNumber, CustomerId)
@@ -35,12 +37,16 @@
 
 2. Визуализации и их назначение
 
-График 1: Распределение оттока
+График 1: Распределение оттока<br>
+![image](https://github.com/user-attachments/assets/191f9c52-d1f5-4ba6-a261-541f20d79a43)<br>
+![image](https://github.com/user-attachments/assets/0e52ebff-cf83-490f-98c4-45ed4666801d)
 
 
 Назначение: Показывает баланс между лояльными и ушедшими клиентами  
 
-График 2: Корреляционная матрица
+График 2: Корреляционная матрица<br>
+![image](https://github.com/user-attachments/assets/2d3b7ab9-d588-46fd-85d1-2d37de3e58b0)<br>
+![image](https://github.com/user-attachments/assets/974ff8d8-e595-447f-860c-007ee2fbae8f)
 
 
 Назначение: Определяет взаимосвязи между параметрами  
@@ -48,17 +54,23 @@
 - Положительная: Возраст → Отток
 - Отрицательная: Активность → Отток
 
-График 3: Распределение возраста
+График 3: Распределение возраста<br>
+![image](https://github.com/user-attachments/assets/70366389-c61e-4a71-9834-723935be10af)<br>
+![image](https://github.com/user-attachments/assets/c9e3c6a5-8827-4b0e-88cb-51cc6d2bd5cf)
 
 
 Назначение: Анализ возрастной структуры клиентов  
 
-График 4: Возраст vs Отток
+График 4: Возраст vs Отток<br>
+![image](https://github.com/user-attachments/assets/4be6b7b7-71a1-4072-89de-7565b2600624)<br>
+![image](https://github.com/user-attachments/assets/84c02fed-855b-44cb-b247-cbe0f33e29eb)
 
 
 Назначение: Сравнение возрастных характеристик  
 
-График 5: Важность признаков
+График 5: Важность признаков<br>
+![image](https://github.com/user-attachments/assets/ab7f7881-5b32-4c5e-b14e-17a127fc997b)
+![image](https://github.com/user-attachments/assets/ae4878e4-19eb-42b0-af77-0769b18cf365)
 
 
 Назначение: Ранжирование факторов влияния  
@@ -67,7 +79,9 @@
 2. Баланс (0.18) 
 3. Количество продуктов (0.12)
 
-График 6: Матрица ошибок
+График 6: Матрица ошибок<br>
+![image](https://github.com/user-attachments/assets/4ee35eba-fd24-4953-9879-abd61a926442)
+![image](https://github.com/user-attachments/assets/53f2ba19-c36a-4928-a246-85000f52a7a6)
 
 
 Назначение: Оценка точности модели  
